@@ -11,7 +11,7 @@
 
 \vspace{2cm}
 
-{\Huge \textbf{Ola and Uber Ride Booking \& Cancellation EDA}}\par
+{\Huge \textbf{Credit Risk EDA}}\par
 
 \begin{center}
 {\Large Subject: Exploratory Data Analysis (EDA)} \\

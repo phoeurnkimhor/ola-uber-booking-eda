@@ -1,4 +1,4 @@
-# Ola and Uber Ride Booking & Cancellation EDA
+# Credit Risk EDA (OpenML 43454)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
@@ -6,57 +6,55 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%230077B5?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%230B3C5D?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-
-This repository contains an Exploratory Data Analysis (EDA) project on ride-booking and cancellation behavior of users from the **Ola and Uber Ride Booking Dataset**. The goal of this project is to understand patterns in ride bookings, cancellations, and customer behavior for better insights and potential business decisions.
+This repository contains an Exploratory Data Analysis (EDA) project on consumer credit risk using the OpenML **Credit-Risk-Dataset** (ID 43454). The goal is to understand patterns related to loan default behavior and the relationships between borrower attributes, loan characteristics, and default outcomes.
 
 ## Dataset
 
-**Source:** [https://www.kaggle.com/datasets/hetmengar/ola-and-uber-ride-booking-and-cancellation-data](https://www.kaggle.com/datasets/hetmengar/ola-and-uber-ride-booking-and-cancellation-data)
+**Source:** [OpenML Credit-Risk-Dataset (ID 43454)](https://www.openml.org/d/43454)
 
-This dataset includes ride data for both Ola and Uber, covering bookings, cancellations, timestamps, and other user metadata. It can be useful to analyze demand patterns, cancellation trends, peak hours, and ride preferences across platforms and locations.
+- License: CC0 (Public Domain)
+- Format: ARFF
+- Instances: 32,581
+- Features: 12
+- Missing values: 4,011 (3,943 instances with missing values)
+- Target: `loan_status` (0 = non-default, 1 = default)
+
+### Features
+
+- `person_age`: Age
+- `person_income`: Annual income
+- `person_home_ownership`: Home ownership (categorical)
+- `person_emp_length`: Employment length (years)
+- `loan_intent`: Loan intent (categorical)
+- `loan_grade`: Loan grade (categorical)
+- `loan_amnt`: Loan amount
+- `loan_intrate`: Interest rate
+- `loan_status`: Default status (label)
+- `loan_percent_income`: Loan amount as % of income
+- `cb_person_default_on_file`: Historical default on file
+- `cb_person_cred_hist_length`: Credit history length
 
 ## Project Overview
 
-### Objective
+### Objectives
 
-The purpose of this project is to explore and visualize ride booking and cancellation trends to answer key questions such as:
+- Assess class balance and default rates
+- Explore relationships between borrower attributes and default
+- Analyze loan characteristics (grade, intent, interest rate) vs risk
+- Handle and characterize missing values
 
-* What are the most common reasons for ride cancellations?
-* How do booking and cancellation patterns differ between Ola and Uber?
-* Are there identifiable patterns in ride demand over time (hour, day, month)?
-* What correlations exist between ride features (e.g., booking time, cancellation, user type)?
+### Example Questions
 
-### Key Questions to be Explored
-
-1. **General Ride Patterns**
-
-   * How many total rides are booked per platform?
-   * What are peak ride hours?
-
-2. **Cancellation Insights**
-
-   * What percentage of rides get canceled?
-   * Are cancellation rates higher for specific platforms?
-   * Does time of day affect cancellation likelihood?
-
-3. **Temporal Trends**
-
-   * Demand variability by hour, weekday, and month
-   * Weekday vs weekend patterns
-
-4. **Comparative Trends**
-
-   * Ola vs Uber user behavior
-   * Differences in cancellation reasons and counts
+- How does `loan_grade` relate to default probability?
+- Does higher `loan_percent_income` correlate with higher default risk?
+- Which `loan_intent` categories carry higher risk?
+- How do age, income, and credit history length interact with default?
 
 ## Contributors
-
-This project was presented our team at the Institute of Technology of Cambodia, Department of Applied Mathematics and Statistics.
-
 - Lecturer: [**Dr. Has Sothea**](https://github.com/hassothea)
 - Team Members:
-    - [**Pheth Soriyuon**](https://github.com/PHETH-SORIYUON) 
-    - [**Phoeurn Kimhor**](https://github.com/phoeurnkimhor)
-    - [**Yin Sambat**](https://github.com/Petit-x-garcon)
+  - [**Pheth Soriyuon**](https://github.com/PHETH-SORIYUON)
+  - [**Phoeurn Kimhor**](https://github.com/phoeurnkimhor)
+  - [**Yin Sambat**](https://github.com/Petit-x-garcon)
 
 

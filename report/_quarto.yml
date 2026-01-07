@@ -9,8 +9,9 @@ format:
       - DIV=11
       - numbers=noendperiod
     papersize: letter
-    include-in-header:
-      text: |
-        \usepackage{fontspec}
-        \newfontfamily\khmerfont{Khmer OS System}
-        \newcommand{\khmer}[1]{{\khmerfont #1}}
+
+jupyter: .venv
+execute:
+  echo: false
+  warning: false
+  error: false
