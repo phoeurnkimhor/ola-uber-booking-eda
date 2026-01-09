@@ -1,11 +1,11 @@
 # Quarto project config
-title: "Ola and Uber Ride Booking & Cancellation EDA"
+title: "Credit Risk EDA"
 author:
   - name: PHETH Soriyuon
   - name: PHOEURN Kimhor
   - name: YIN Sambat
   - name: "Lecturered by: Dr. HAS Sothea"
-date: "13 January 2026"
+date: "18 January 2026"
 date-format: "DD/MM/YYYY"
 format: 
   revealjs:

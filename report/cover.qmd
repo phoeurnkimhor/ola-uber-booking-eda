@@ -19,15 +19,16 @@
 
 \begin{center} 
 {\large
-\begin{tabular}{ l c }
-\textbf{Name of Students} & \textbf{ID} \\
+\begin{tabular}{ l c p{8cm} }
+\textbf{Name of Students} & \textbf{ID} & \textbf{Contribution} \\
 \hline
-PHETH Soriyuon & e20210674 \\
-PHOEURN Kimhor & e20210823 \\
-YIN Sambat & e20210138 \\
+PHETH Soriyuon & e20210674 & Data preprocessing, data cleaning, and feature preparation. \\
+PHOEURN Kimhor & e20210823 & EDA on credit behavior and pattern discovery \\
+YIN Sambat & e20210138 & EDA on borrower demographics and loan characteristics\\
 \end{tabular}
 }
 \end{center}
+
 
 
 \vspace{1cm} 
