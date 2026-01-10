@@ -51,10 +51,13 @@ This repository contains an Exploratory Data Analysis (EDA) project on consumer 
 - How do age, income, and credit history length interact with default?
 
 ## Contributors
-- Lecturer: [**Dr. Has Sothea**](https://github.com/hassothea)
-- Team Members:
-  - [**Pheth Soriyuon**](https://github.com/PHETH-SORIYUON)
-  - [**Phoeurn Kimhor**](https://github.com/phoeurnkimhor)
-  - [**Yin Sambat**](https://github.com/Petit-x-garcon)
+
+| Avatar | Name | Role | GitHub |
+|--------|------|------|--------|
+| ![Dr. Has Sothea](https://github.com/hassothea.png?size=40) | Dr. HAS Sothea | Lecturer | [hassothea](https://github.com/hassothea) |
+| ![Pheth Soriyuon](https://github.com/PHETH-SORIYUON.png?size=40) | PHETH Soriyuon | Team Member | [PHETH-SORIYUON](https://github.com/PHETH-SORIYUON) |
+| ![Phoeurn Kimhor](https://github.com/phoeurnkimhor.png?size=40) | PHOEURN Kimhor | Team Member | [phoeurnkimhor](https://github.com/phoeurnkimhor) |
+| ![Yin Sambat](https://github.com/Petit-x-garcon.png?size=40) | YIN Sambat | Team Member | [Petit-x-garcon](https://github.com/Petit-x-garcon) |
+
 
 
