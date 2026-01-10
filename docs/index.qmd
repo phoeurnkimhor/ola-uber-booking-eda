@@ -1,4 +1,3 @@
-# Introduction
-hello
-
-{{< include soriyuon/introduction.qmd >}}
+# Methodology
+## Data Preprocessing
+{{< include soriyuon/data_preprocessing.qmd >}}
