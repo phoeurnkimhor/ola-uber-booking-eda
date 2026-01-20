@@ -1,0 +1,220 @@
+31. **Linked** (adj): Connected or related to the reading materials.
+32. **Focus** (v): To concentrate on developing specific skills like summary writing.
+33. **Developing** (v): The process of growing or improving a piece of writing or a skill.
+34. **Summaries** (n): Brief statements or accounts of the main points of a text.
+35. **Reports** (n): Formal documents describing the findings of an analysis or project.
+36. **Curriculum** (n): The subjects comprising a course of study.
+37. **Vitae** (n): Part of "Curriculum Vitae," a document detailing one's career history.
+38. **Cover** (adj): Accompanying a job application, as in a "cover letter".
+39. **Letter** (n): A written message addressed to a specific person or organization.
+40. **Speaking** (n): The action of conveying information through the spoken word.
+41. **Listening** (n): The act of receiving and interpreting audio information.
+42. **Communicate** (v): To share or exchange information meaningfully.
+43. **Meaningfully** (adv): In a way that is serious, relevant, and useful.
+44. **Confidently** (adv): In a way that shows self-assurance in one's language ability.
+45. **Take** (v): To record or write down facts (e.g., to "take notes").
+46. **Notes** (n): Brief records of facts or ideas used to aid memory.
+47. **Give** (v): To deliver or provide a formal talk or presentation.
+48. **Presentations** (n): Formal talks or speeches giving information to an audience.
+49. **Interview** (n): A formal meeting to evaluate a candidate for a job.
+50. **Study** (v): To devote time and attention to acquiring knowledge about data.
+51. **Analyse** (v): To examine information methodically to understand its structure.
+52. **Data** (n): Facts and statistics collected together for reference or analysis.
+53. **Information** (n): Facts provided or learned about a specific engineering topic.
+54. **Order** (n): The logical arrangement or sequence of ideas.
+55. **Critical** (adj): Involving objective analysis and evaluation.
+56. **Thinking** (n): The process of using one's mind to consider or reason.
+57. **Modules** (n): Self-contained units or sections of the course.
+58. **Describing** (v): Giving a detailed account in words of data or processes.
+59. **Interpreting** (v): Explaining the meaning of information or graphs.
+60. **Analysis** (n): A detailed examination of elements or structure.
+61. **Preparation** (n): The process of making ready for a professional task.
+62. **Writers** (n): The authors who created the instructional material.
+63. **Thank** (v): To express gratitude to funding sources like New Zealand Aid.
+64. **Aid** (n): Financial or material help provided to support a project.
+65. **Payer** (n): An individual who pays taxes that fund international aid.
+66. **Funding** (n): Money provided for the purpose of completing a project.
+67. **Contents** (n): A list of the chapters or sections in the book.
+68. **Page** (n): One side of a sheet of paper in the volume.
+69. **Unit** (n): A single entity or sub-section of a module.
+70. **Key** (adj): Crucial or essential ideas.
+71. **Ideas** (n): Thoughts or suggestions as to a possible course of action.
+72. **Paraphrasing** (n): The act of expressing the meaning of something using different words.
+73. **Reviewing** (v): Assessing something formally with the intent to improve it.
+74. **Applying** (v): Putting a process or theory into operation or use.
+75. **Process** (n): A series of actions or steps taken to achieve a result.
+76. **Short** (adj): Lasting or taking a small amount of time or space.
+77. **Oral** (adj): Spoken rather than written communication.
+78. **Graph** (n): A diagram showing the relation between variable quantities.
+79. **Chart** (n): A sheet of information in the form of a table or diagram.
+80. **Table** (n): A set of figures systematically displayed.
+81. **Comparison** (n): The act of estimating similarities between things.
+82. **Contrast** (n): The act of estimating differences between things.
+83. **Types** (n): Categories of writing having common characteristics.
+84. **Genre** (n): A category of artistic or literary composition.
+85. **Problem** (n): A matter or situation regarded as unwelcome or harmful.
+86. **Solving** (n): The act of finding an answer or explanation for a problem.
+87. **Decision** (n): A conclusion or resolution reached after consideration.
+88. **Making** (n): The process of forming or producing something.
+89. **Evaluating** (v): Assessing the value or quality of a communication form.
+90. **Workplace** (n): A place where people work, such as an engineering firm.
+91. **Telephone** (n): A system for transmitting voices over a distance.
+92. **Dialogue** (n): A conversation between two or more people.
+93. **Message** (n): A verbal or written communication sent to a recipient.
+94. **Formal** (adj): Done in accordance with professional rules or etiquette.
+95. **Discussing** (v): Talking about something to reach a conclusion.
+96. **Employment** (n): The state of having paid work.
+97. **Unemployment** (n): The state of being without a job.
+98. **Situation** (n): A set of circumstances in which one finds oneself.
+99. **Advertisement** (n): A public notice promoting a job opening.
+100. **Match** (v): To correspond or be suited to a job's requirements.
+101. **Requirement** (n): A thing that is compulsory or necessary.
+102. **Ethics** (n): Moral principles that govern professional behavior.
+103. **Role** (n): The function assumed by a person in a simulation.
+104. **Rationale** (n): A set of reasons or a logical basis for a task.
+105. **Article** (n): A specific piece of writing in a magazine or journal.
+106. **Skimming** (n): Reading quickly to note only the important points.
+107. **Scanning** (n): Looking at all parts of a text to find specific info.
+108. **Objectives** (n): Goals aimed at or sought by the learner.
+109. **Challenge** (n): A task that tests someone's abilities.
+110. **Summarize** (v): To give a brief statement of the main points.
+111. **Habits** (n): Settled or regular tendencies in thinking.
+112. **Underline** (v): To draw a line under a word to emphasize it.
+113. **Thesis** (n): A statement or theory put forward as a premise.
+114. **Draft** (n): A preliminary version of a piece of writing.
+115. **Accuracy** (n): The quality of being correct or precise.
+116. **Completeness** (n): The state of having all necessary parts.
+117. **Revise** (v): To reconsider and alter something in light of new evidence.
+118. **Coherence** (n): The quality of being logical and consistent.
+119. **Punctuation** (n): Marks used in writing to separate sentences.
+120. **Spelling** (n): The process of forming words from letters.
+121. **Brainstorming** (n): A group or individual technique to produce ideas.
+122. **Clustering** (n): A visual brainstorming technique using maps.
+123. **Outline** (n): A general plan that gives essential features.
+124. **Organizing** (v): Arranging material into a structured whole.
+125. **Proofreading** (n): Reading text to find and correct errors.
+126. **Essay** (n): A short piece of writing on a particular subject.
+127. **Paragraph** (n): A distinct section of a piece of writing.
+128. **Sentence** (n): A set of words that is complete in itself.
+129. **Body** (n): The main part of an essay or presentation.
+130. **Conclusion** (n): The end or finish of an event or process.
+131. **Support** (n): Evidence or examples that prove a topic sentence.
+132. **Statistics** (n): The practice of collecting and analyzing numerical data.
+133. **Trends** (n): General directions in which something is developing.
+134. **Fluctuating** (v): Rising and falling irregularly in number or amount.
+135. **Steadily** (adv): In a regular and even manner.
+136. **Dramatic** (adj): Striking in appearance or effect (as in a "dramatic drop").
+137. **Substantial** (adj): Concerning the main part of something; significant.
+138. **Stable** (adj): Not likely to change or fail.
+139. **Decrease** (v): To make or become smaller or fewer.
+140. **Increase** (v): To become or make greater in size or amount.
+141. **Pie** (adj): Describing a circular chart divided into sectors.
+142. **Bar** (adj): Describing a chart with rectangular bars.
+143. **Column** (adj): Describing a bar chart where bars are vertical.
+144. **Visual** (adj): Relating to seeing or sight (e.g., "visual form").
+145. **Form** (n): The visible shape or configuration of data.
+146. **Tensile** (adj): Relating to tension; specifically "tensile strength".
+147. **Strength** (n): The capacity of an object to withstand great force.
+148. **Hardness** (n): The quality or condition of being hard (measured in steel).
+149. **Ductility** (n): The ability of a material to have its shape changed without losing strength.
+150. **Properties** (n): Attributes or qualities of a material like carbon steel.
+151. **Informal** (adj): Having a relaxed, friendly, or unofficial style.
+152. **Memos** (n): Written messages used in a business or organization.
+153. **Letters** (n): Written communications sent by post or messenger.
+154. **Familiarize** (v): To give someone knowledge or understanding of a subject.
+155. **Superior** (adj): Higher in rank, status, or quality.
+156. **Movement** (n): A group of people working together to advance a cause.
+157. **Physiology** (n): The branch of biology dealing with the functions of living organisms.
+158. **Reasoning** (n): The action of thinking about something in a logical way.
+159. **Verbal** (adj): Relating to or in the form of words.
+160. **Stutter** (v): To talk with continued involuntary repetition of sounds.
+161. **Dominance** (n): Power and influence over others.
+162. **Spatial** (adj): Relating to space (e.g., "spatial abilities").
+163. **Psychology** (n): The scientific study of the human mind and its functions.
+164. **Resolution** (n): A firm decision to do or not to do something.
+165. **Liberation** (n): The act of setting someone free from imprisonment or oppression.
+166. **Independence** (n): The state of being free from outside control.
+167. **Recognition** (n): Acknowledgement of something's existence or validity.
+168. **Movement** (n): A series of organized activities by people.
+169. **Domestic** (adj): Relating to the running of a home or family relations.
+170. **Chores** (n): Routine tasks, especially household ones.
+171. **Mechanism** (n): A system of parts working together in a machine.
+172. **Impetus** (n): The force that makes something happen or happen more quickly.
+173. **Vacancy** (n): An unoccupied position or job.
+174. **Seeds** (n): The beginning of a feeling, process, or condition.
+175. **Discovery** (n): The action of finding or learning something for the first time.
+176. **Invention** (n): The action of inventing something, typically a process.
+177. **Humankind** (n): Human beings considered collectively.
+178. **Spectacular** (adj): Beautiful in a dramatic and eye-catching way.
+179. **Telemedicine** (n): The remote diagnosis and treatment of patients via technology.
+180. **Miracle** (n): A highly welcome event not explicable by natural laws.
+181. **Superhighway** (n): An extensive electronic network such as the internet.
+182. **Satellite** (n): An artificial body placed in orbit around the earth.
+183. **Educational** (adj): Relating to the provision of education.
+184. **Academic** (adj): Relating to education and scholarship.
+185. **Library** (n): A building or room containing collections of books.
+186. **Document** (n): A piece of written or electronic matter.
+187. **Medical** (adj): Relating to the science of medicine.
+188. **Symptom** (n): A physical or mental feature indicating a condition.
+189. **Diagnosis** (n): The identification of the nature of an illness.
+190. **Laboratory** (n): A room or building equipped for scientific experiments.
+191. **Warehouse** (n): A large building where raw materials are stored.
+192. **Forklift** (n): A vehicle with a pronged device for lifting heavy loads.
+193. **Conscious** (adj): Aware of and responding to one's surroundings.
+194. **Treatment** (n): Medical care given to a patient for an illness or injury.
+195. **Concussion** (n): Temporary unconsciousness caused by a blow to the head.
+196. **Privacy** (n): The state of being free from public attention.
+197. **Witness** (n): A person who sees an event, typically a crime or accident.
+198. **Signature** (n): A person's name written in a distinctive way.
+199. **Memorandum** (n): A note or record made for future use.
+200. **Corporate** (adj): Relating to a large company or group.
+201. **Employees** (n): Persons employed for wages or salary.
+202. **Managers** (n): Persons responsible for controlling an organization.
+203. **Faxed** (v): Scanned and transmitted a document over a phone line.
+204. **Email** (n): Messages distributed by electronic means.
+205. **In-house** (adj): Done or existing within an organization.
+206. **Correspondence** (n): Communication by exchanging letters.
+207. **Peers** (n): Persons of the same age, status, or ability.
+208. **Subordinates** (n): Persons under the authority or control of another.
+209. **Salary** (n): A fixed regular payment made by an employer.
+210. **Benefits** (n): Advantages such as health insurance provided by a job.
+211. **Advance** (v): To move forward in a purposeful way.
+212. **Atmosphere** (n): The pervading tone or mood of a workplace.
+213. **Congenial** (adj): Pleasant because of a personality or qualities similar to one's own.
+214. **Supportive** (adj): Providing encouragement or emotional help.
+215. **Feature** (n): A distinctive attribute or aspect of something.
+216. **Difference** (n): A point or way in which people or things are not the same.
+217. **Similarity** (n): The state or fact of being similar.
+218. **Principle** (n): A fundamental truth that serves as the foundation for a system.
+219. **Combustion** (n): The process of burning something.
+220. **Efficient** (adj): Achieving maximum productivity with minimum wasted effort.
+221. **Feasibility** (n): The state or degree of being easily or conveniently done.
+222. **Proposal** (n): A plan or suggestion put forward for consideration.
+223. **Honesty** (n): The quality of being truthful.
+224. **Integrity** (n): The quality of being honest and having strong moral principles.
+225. **Responsibility** (n): The state or fact of having a duty to deal with something.
+226. **Professionalism** (n): The competence or skill expected of a professional.
+227. **Behavior** (n): The way in which one acts or conducts oneself.
+228. **Promptly** (adv): With little or no delay.
+229. **Volunteer** (v): To freely offer to do something.
+230. **Relationship** (n): The way in which two or more people are connected.
+231. **Co-workers** (n): Persons with whom one works.
+232. **Contract** (n): A written or spoken agreement.
+233. **Compromise** (v): To accept standards that are lower than is desirable.
+234. **Application** (n): A formal request to an authority for a job.
+235. **Motivation** (n): The reason or reasons one has for acting in a particular way.
+236. **Qualification** (n): A quality or accomplishment that makes someone suitable for a job.
+237. **Guidelines** (n): General rules or pieces of advice.
+238. **Ethical** (adj): Relating to moral principles.
+239. **Moral** (adj): Concerned with the principles of right and wrong behavior.
+240. **Situation** (n): A set of circumstances in which one finds oneself.
+241. **Presentation** (n): The delivery of information to an audience.
+242. **Audience** (n): The assembled spectators or listeners at a talk.
+243. **Layout** (n): The way in which text or pictures are set out.
+244. **Font** (n): A set of type of one particular face and size.
+245. **Formatting** (n): The way in which something is arranged or set out.
+246. **Goal** (n): The object of a person's ambition or effort.
+247. **Method** (n): A particular form of procedure for accomplishing something.
+248. **Logic** (n): Reasoning conducted according to strict principles of validity.
+249. **Conclusion** (n): A judgment or decision reached by reasoning.
+250. **Recommendations** (n): Suggestions or proposals as to the best course of action.

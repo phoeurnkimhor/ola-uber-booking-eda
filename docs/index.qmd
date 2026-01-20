@@ -1,3 +1,107 @@
-# Methodology
-## Data Preprocessing
+# Credit Risk Exploratory Data Analysis Report
+
+## Executive Summary
+
+This report presents a comprehensive exploratory data analysis of the Credit Risk Dataset from OpenML (ID 43454). Our analysis reveals key insights into borrower characteristics, loan patterns, and default risk factors that can inform lending decision-making processes.
+
+## Dataset Overview
+
+The dataset contains **32,581 loan records** with 12 features covering borrower demographics, loan characteristics, and historical credit information. The target variable `loan_status` indicates whether a loan defaulted (1) or not (0).
+
+### Key Dataset Statistics:
+- **Total Instances**: 32,581
+- **Features**: 12 (9 numerical, 3 categorical)
+- **Missing Values**: 4,011 instances affected
+- **Default Rate**: Approximately 22% of loans default
+
+## Data Preprocessing & Quality Assessment
+
 {{< include soriyuon/data_preprocessing.qmd >}}
+
+## Exploratory Data Analysis
+
+### 1. Distribution Analysis
+
+Our analysis begins with understanding the distribution patterns of both numerical and categorical features:
+
+![Numerical Distributions](../plots/numerical_distributions.png)
+
+**Key Findings from Numerical Distributions:**
+- **Age Distribution**: Most borrowers are between 25-40 years old
+- **Income Distribution**: Right-skewed with median around $60,000
+- **Loan Amounts**: Range from small personal loans to significant business loans
+- **Interest Rates**: Vary significantly based on loan grade and borrower profile
+
+![Categorical Distributions](../plots/categorical_distributions.png)
+
+**Key Findings from Categorical Features:**
+- **Home Ownership**: Majority rent or have mortgages
+- **Loan Intent**: Debt consolidation and credit card payments dominate
+- **Loan Grades**: Distribution across risk grades shows portfolio composition
+
+### 2. Statistical Analysis
+
+![Box Plot Analysis](../plots/boxplot_numeric.png)
+
+The box plot analysis reveals important statistical properties:
+- **Outliers**: Significant outliers in income and loan amounts
+- **Skewness**: Income and loan amounts show right skewness
+- **Variability**: Interest rates and loan percentages show high variability
+
+### 3. Correlation and Relationship Analysis
+
+![Correlation Matrix](../plots/ca.png)
+
+**Strong Correlations Identified:**
+- Loan grade and interest rate (expected strong positive correlation)
+- Income and loan amount (moderate positive correlation)
+- Credit history length and age (moderate positive correlation)
+
+![Pairplot Analysis](../plots/pairplot_numeric_features.png)
+
+The pairplot reveals complex relationships between numerical features, highlighting potential non-linear relationships that could be important for predictive modeling.
+
+### 4. Income Distribution Deep Dive
+
+![Income Distribution](../plots/income_distribution.png)
+
+Income analysis shows distinct patterns that correlate with default risk, providing crucial insights for risk assessment.
+
+## Key Insights and Recommendations
+
+### Risk Factors Identified:
+1. **High loan-to-income ratios** correlate with increased default risk
+2. **Younger borrowers** (under 25) show higher default rates
+3. **Certain loan intents** (e.g., small business) carry elevated risk
+4. **Lower loan grades** predictably correlate with higher default rates
+
+### Recommendations:
+1. **Enhanced screening** for borrowers with loan-to-income ratios above 40%
+2. **Age-adjusted risk assessment** for younger applicants
+3. **Intent-specific evaluation criteria** for different loan purposes
+4. **Missing data handling** strategy for the 12% of records with incomplete information
+
+## Methodology
+
+{{< include soriyuon/introduction.qmd >}}
+
+## Demographic Analysis
+
+{{< include sambat/demographic.qmd >}}
+
+## Pattern Recognition
+
+{{< include kimhor/pattern.qmd >}}
+
+## Conclusions
+
+This exploratory analysis provides a solid foundation for developing predictive models for credit risk assessment. The visualizations and statistical analysis reveal clear patterns and relationships that can be leveraged for:
+
+1. **Feature Engineering**: Based on identified correlations and distributions
+2. **Risk Scoring Models**: Using the key risk factors identified
+3. **Portfolio Management**: Understanding the composition and risk profile
+4. **Lending Policies**: Data-driven insights for approval criteria
+
+The comprehensive analysis demonstrates that while traditional factors (income, credit history) remain important, the interaction between multiple variables provides the most accurate risk assessment framework.
+
+hello

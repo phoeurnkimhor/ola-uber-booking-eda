@@ -50,6 +50,44 @@ This repository contains an Exploratory Data Analysis (EDA) project on consumer 
 - Which `loan_intent` categories carry higher risk?
 - How do age, income, and credit history length interact with default?
 
+## Key Visualizations
+
+This section showcases the main visualizations generated from our exploratory data analysis, organized by analysis type:
+
+## Univariate Analysis
+
+### Categorical Features Distribution
+![Categorical Distributions](plots/categorical_distributions.png)
+
+Distribution patterns of categorical variables in the dataset, including loan intent, home ownership, and loan grade distributions. This helps understand the composition of borrowers and loan characteristics.
+
+### Numerical Features Distribution
+![Numerical Distributions](plots/numerical_distributions.png)
+
+Distribution of continuous variables such as age, income, loan amount, and interest rate, helping identify patterns, skewness, and potential outliers in individual features.
+
+### Box Plot Analysis
+![Box Plot Numerical Features](plots/boxplot_numeric.png)
+
+Box plots revealing the statistical properties of numerical features including median, quartiles, and outliers, essential for understanding data quality and distribution characteristics of each variable.
+
+## Bivariate Analysis
+
+### Pairplot Analysis (Quan vs Quan)
+![Pairplot Numerical Features](plots/pairplot_numeric_features.png)
+
+Comprehensive pairwise relationships between numerical features, revealing both linear and non-linear relationships that inform feature selection and engineering strategies.
+
+### Categorical Variables by Loan Status (Qual vs Qual)
+![Group Bar](plots/grouped_bar.png)
+
+Grouped bar chart showing the distribution of qualitative/categorical variables (such as home ownership, loan intent, and loan grade) segmented by loan status (default vs non-default), revealing which categories are associated with higher default rates.
+
+### Correspondence Analysis
+![Correspondence Analysis](plots/ca.png)
+
+Correspondence analysis visualization showing the association between two categorical features with high association strength, as determined by Chi-square test and Cramér's V statistic. This technique reveals patterns of association and dependency between categorical variables in a lower-dimensional space.
+
 ## Contributors
 
 | Avatar | Name | Role | GitHub |
